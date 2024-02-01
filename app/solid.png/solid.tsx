@@ -1,4 +1,3 @@
-import { isColor } from "@/lib/utils";
 import React from "react";
 
 export interface SolidProps {
